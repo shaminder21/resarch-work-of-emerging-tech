@@ -1,0 +1,110 @@
+\documentclass[10 pm]{article}
+
+
+\title  {Research Paper 1 - Azure Machine Learning Labs -- Worth 15\% of your Final Grade}
+\begin{document}
+\maketitle
+
+
+\section{Reflection and Learning Questions}
+
+\subsection{QUESTION 1: WHY DO WE SAY THAT AZURE IS A “CLOUD OFFERING”. DISCUSS THE FEATURES OF THIS:}
+\begin{flushleft}
+Microsoft Azure, formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including those for compute, analytics, storage and networking. Users can pick and choose from these services to develop and scale new applications, or run existing applications, in the public cloud.
+Services offered with Microsoft Azure Features
+Azure delivers more than 600 services. Some of the major services are listed under:
+Computational Services
+The best thing you get to know while learning what is Microsoft Azure is its IaaS feature that allows you to launch general purpose virtual machines in Microsoft Windows and Linus platforms. It also enables preconfigured machine images for most of the software packages.
+PaaS feature enables the developers to publish and manage websites and apps with ease.
+Storage Services
+File service offered by Azure allows data storage and access on the cloud by using the REST APIs and SMB protocols.
+Queue Services let programs communicate in an asynchronous fashion by using queries.
+Mobile Services
+HockeyApp designed for mobiles can be used for development, distribution and beta-testing mobile apps.
+‘Mobile engagement’ in the Microsoft Azure features collects real-time analytics that explicitly shows the behavior of the user and sends push notifications to the mobile phones as well.
+Data Management
+Azure search brings up text-search and a subset of Odata’s structured filters by using SDK APIs or REST.
+Azure enables handling data-intensive queries on datasets that exceed 1TB through its data warehousing service called, SQL Data Warehouse.
+Media Services
+Azure has a PaaS offering that helps in content protection, encoding, streaming and analytics.
+Management Services
+Automation features will be a boon for you when you get to know more about what is Microsoft Azure. All the error-prone, complex, long-running, manual and frequently repeating activities that are performed in cloud and enterprise environments can now be easily managed via Azure automation.
+It also brings up Microsoft SMA (Service-Management-Automation) software which can be used by developers for constructing, running and managing runbooks in order to integrate, orchestrate and automate a complex IT business process.
+Developer Services
+It can be used by developers by gain detailed insights on applications.
+CDN Azure provides its users a global content delivery network(CDN) for images, audio, video and applications. Now the static assets of websites which are geographically closer to users can be cached in order to enhance performance.CDNs can be managed by a REST based HTTP API.As of December 2016, Azure has 30 locations worldwide, also known as Edge Locations.
+Microsoft Machine Learning The machine learning service of Microsoft, Microsoft ML is a part of Cortana Intelligence Suite. It features properties like predictive analytics and data interaction using natural speech recognition through Cortana.
+\end{flushleft}
+
+
+\subsection{QUESTION 2: WHAT IS DATA SCIENCE? WHAT ARE ITS TOOLS AND METHODOLOGIES.}
+\begin{flushleft}
+Data science is a detailed study of the flow of information from colossal amounts of data present in an organization’s repository. It involves obtaining meaningful insights from raw and unstructured data which is processed through analytical, programming, and business skills. Lets get started with our What is Data Science blog.
+\documentclass{article}
+
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{figure}
+  \includegraphics[width=\linewidth]{DataScience-02-1.jpg}
+  \caption{}
+  \label{fig:DataScience}
+\end{figure}
+
+Figure \ref{fig:DataScience}
+ITS TOOLS :
+-python
+-Tableau
+-Spark with ML
+-Hadoop(pig and hive)
+-SAS
+-SQL
+
+We adhere to a standard Data Science Methodology including :
+-Strategy
+-Data Gathering
+-Data Discovery
+-Machine Learning
+-Fine Tune and testing
+
+\end{document}
+
+\end{flushleft}
+
+\subsection{QUESTION 3: HOW DOES THE CLASSICAL/RELATIONAL DATA MODEL COMPARE TO THE “BIG DATA” MODEL. WHAT NEW PROBLEMS DOES BIG DATA SOLVE? WHY ARE WE DOING BIG DATA NOW (NOT 20 YEARS AGO)?}
+\begin{flushleft}
+The explosive growth of the Internet, smart devices, and other forms of information technology in the DT era has seen data growing at an equally impressive rate. Computers are spewing forth data at astronomical rates about everything from astrophysics to internet shopping. And it could be hugely valuable.
+Big Data initially meant "data too big to put in a database" or "data so large that only sampling methods allowed summarization". Now it is a buzzword meant to describe the volumes of data that are created from all the computers, sensors, etc. that exist in the world (or within a specific organization). That said, the truth of the matter is that very few organizations truly have "big data" by any definition (clean, raw, or otherwise).
+
+\end{flushleft}
+
+\subsection{QUESTION 4: DISCUSS THE KINDS AND USES OF THE FOUR KINDS OF ANALYTICS:}
+\begin{flushleft}
+1. Predictive Data Analytics 
+Predictive analytics may be the most commonly used category of data analytics as it is used to identify trends, correlations, and causation. The category can be further broken down into predictive modeling and statistical modeling. But, it's important to know that these two really go hand in hand. 
+
+Let's take a look at an example using an advertising campaign on Facebook for baked goods. Statistical modeling could be used to determine how closely conversion rate correlates with a target audience's geographic area, income bracket, and interests. From there, predictive modeling could be used to analyze the statistics for two (or more) different target audiences and provide you with possible revenue values for each demographic. 
+
+2. Prescriptive Data Analytics
+Prescriptive analytics is where AI and big data meet to help predict outcomes and what actions to take. This category of analytics can be further broken down into optimization and random testing. Using advancements in machine learning, prescriptive analytics can help answer questions like "What if we try this?" and "What is the best action" without spending the time actually trying out each variable. Basically, it can help you test the right variables and even suggest new variables with a higher chance of generating a positive outcome.
+
+3. Diagnostic Data Analytics
+While not as sexy as some of the future data analytics, past data analytics serve an important purpose in guiding the business. Diagnostic data analytics is the process of examining data to understand cause and event, or why something happened. Techniques like drill-down, data discovery, data mining, and correlations are often employed.
+
+In particular, diagnostic data analytics help answer why something occurred. Like the other categories, it too is broken down into two even more specific categories: discover and alerts and query and drilldowns. Query and drilldowns are what you'll use to get more detail from a report. For example, let's say that one of your sales reps closed significantly fewer deals last month. A drilldown could show fewer work days, reminding you that they had used 2 weeks vacation that month explaining the dip.
+
+Discover and alerts can be used to be notified of a potential issue beforehand, such as alerting you to a low amount of man hours which could result in a dip in closed deals. You could also use diagnostic data analytics to “discover” information like who the best candidate for a new position at your company is.
+
+4. Descriptive Data Analytics
+Descriptive analytics are the backbone of reporting—it's impossible to have BI tools and dashboards without it. It addresses your basic how many, when, where, and what questions. Once again, this can be further separated into two categories: ad hoc reporting and canned reports. A canned report is one that has been designed previously and contains information around a given subject. An example of this a monthly report sent by your ad agency or ad team that details performance metrics on your latest ad efforts.
+
+Ad hoc reports, on the other hand, are designed by you and usually aren't scheduled but are more in-the-moment. They're useful for obtaining more in-depth information about a specific query. An ad hoc report you might run could be on your social media profile looking at the types of people who've liked your page along with what other pages in your industry they've liked as well as any other engagement and demographic information. Its hyperspecificity helps give a fuller picture of your social media audience, and chances are you won't need to view this type of report a second time (unless there's a major change to your audience). 
+
+Conclusion
+Now that you've got a good idea of the four different types of data analytics, consider using their more descriptive category names within conversation and writing. Doing so can help to reduce the number of possible misunderstandings and help to deepen the knowledge of those around you of the different types of data analytics.
+
+Additionally, your company is likely already using past data analytics, but it's important to note that this results in business decisions that are reactive rather than proactive. More and more businesses are going to be adopting future data analytics and thus will be able to make predictive choices. If you're not ahead of that curb you may find your business performance lacking as others in your industry begin to adopt and thus reap the rewards of adopting future data analytics.
+\end{flushleft}
+
+\end{document}
